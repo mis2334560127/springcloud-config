@@ -1,2 +1,4 @@
 config:
   info: misWang
+server:
+  port: 8001
